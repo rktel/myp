@@ -1,0 +1,1 @@
+start meteor --port 2020 --production

@@ -1,0 +1,19 @@
+{
+  "name": "myp",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.0.0-beta.55",
+    "js2excel": "^1.0.1",
+    "meteor-node-stubs": "^0.4.1",
+    "moment": "^2.22.2",
+    "mssql": "^4.1.0",
+    "promise": "^8.0.1",
+    "vue": "^2.5.17",
+    "vue-meteor-tracker": "^2.0.0-beta.3",
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.1.13"
+  }
+}
